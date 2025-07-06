@@ -1,0 +1,8 @@
+[package]
+name = "sparkhill"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ssh-key = { workspace = true }
+pgp = { workspace = true }
